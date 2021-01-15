@@ -12,7 +12,7 @@ I am a second-year PhD candidate in the [Department of Computer Science and Tech
 
 I obtained my MSc in [Speech and Language Processing](https://www.ed.ac.uk/ppls/linguistics-and-english-language/prospective/postgraduate/msc/speech-language-processing) at the University of Edinburgh. Before that, I was an undergraduate in [Foreign Languages and Literatures](http://www.dfll.tsinghua.edu.cn/dfllen/) at Tsinghua University, Beijing, China.
 
-My research focuses on automatically understanding arguments people post on the Internet. I do believe a better understanding for each other can help reduce discrimination, prejudice, and stereotyping.
+My research focuses on automatically understanding arguments people post on the Internet. I do believe a better understanding for each other can reduce discrimination, prejudice, and stereotyping.
 
 
 Contact
