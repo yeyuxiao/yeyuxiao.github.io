@@ -11,23 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Computer Science, University of Cambridge, 2019-2022 (expected)
+* M.Sc. in Speech and Language Processing, University of Cambridge, 2016-2017
+* B.A. in Foreign Languages and Literatures, Tsinghua University, 2011-2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Senior Researcher @ **SinoVoice**, 2019
+  * Worked at SinoVoice’s text-to-speech (TTS) center, developing high-speed end-to-end TTS models
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Algorithm Engineer @ **Alibaba**, 2018-2019
+  * Worked at Alibaba’s Intelligent Innovation Division, developing algorithms to build question answering systems with a focus on knowledge-based question answering
+
+* Research Assistant @ **Tsinghua University**, 2017-2018
+  * Worked at Tsinghua International Computer Science Institute, applying NLP and CV techniques to problems in cyber security
+
+* Teaching Assistant @ **Tsinghua University**, 2018-2019
+  * Demonstrated an undergraduate course Computational Linguistics at the Department of Foreign Languages and Literatures
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -35,13 +37,13 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
+ -->
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+  <!-- 
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -56,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
