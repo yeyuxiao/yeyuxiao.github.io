@@ -1,5 +1,5 @@
 ---
-title: "End-to-End Argument Mining as Biaffine Dependency Parsing."
+title: "End-to-End Argument Mining as Biaffine Dependency Parsing"
 collection: publications
 permalink: /publication/2021-01-01-End-to-End-Argument-Mining-as-Biaffine-Dependency-Parsing
 date: 2021-01-01

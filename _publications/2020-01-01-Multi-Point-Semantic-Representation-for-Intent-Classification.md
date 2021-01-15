@@ -1,5 +1,5 @@
 ---
-title: "Multi-Point Semantic Representation for Intent Classification."
+title: "Multi-Point Semantic Representation for Intent Classification"
 collection: publications
 permalink: /publication/2020-01-01-Multi-Point-Semantic-Representation-for-Intent-Classification
 date: 2020-01-01
