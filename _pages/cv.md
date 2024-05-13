@@ -11,12 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, University of Cambridge, 2019-2022 (expected)
+* Ph.D. in Computer Science, University of Cambridge, 2019-2024
 * M.Sc. in Speech and Language Processing, University of Edinburgh, 2016-2017
 * B.A. in Foreign Languages and Literatures, Tsinghua University, 2011-2016
 
 Work experience
 ======
+* Postdoc @ **Tsinghua University**, 2024-Present
+  * Worked in the THUNLP Group, working on LLM-based multi-agent systems and Legal AI
+    
 * Senior Researcher @ **SinoVoice**, 2019
   * Worked at SinoVoice’s text-to-speech (TTS) center, developing high-speed end-to-end TTS models
 
