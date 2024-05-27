@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuxiao Ye"
+title                    : "Yuxiao Ye | 叶宇潇"
 title_separator          : "-"
-name                     : &name "Yuxiao Ye"
+name                     : &name "Yuxiao Ye | 叶宇潇"
 description              : &description "personal description"
 url                      : https://yeyuxiao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
