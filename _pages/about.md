@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoc in the [THUNLP Group](http://nlp.csai.tsinghua.edu.cn), Tsinghua University, Beijing, China. My ongoing research projects include LLM-based multi-agent systems and Legal AI. I see myself as a computational linguist with a research interest in enabling AI to think and argue like humans do.
+I am currently a postdoc (Shuimu Scholar 水木学者) in the [THUNLP Group](http://nlp.csai.tsinghua.edu.cn) at Tsinghua University, Beijing, China. My ongoing research projects include LLM-based multi-agent systems and Legal AI. I see myself as a computational linguist with a research interest in enabling AI to think and argue like humans do.
 
 I finished my PhD in the [Department of Computer Science and Technology](https://www.cl.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Simone Teufel](https://www.cl.cam.ac.uk/~sht25/), sponsored by [Toshiba Research Europe Limited](https://www.toshiba.eu/pages/eu/Cambridge-Research-Laboratory/). I was also a member of the [NLIP Research Group](https://www.cl.cam.ac.uk/research/nl/) at the University of Cambridge. My PhD thesis is on [argument mining with informal text](https://www.repository.cam.ac.uk/items/793d7d68-cac5-48a9-8551-97b3eeccd597). I hope that my work, by providing automatic analyses of arguments in online discussions, will foster better understanding among people with different opinions, and can ultimately reduce discrimination, prejudice, and stereotyping.  
 
