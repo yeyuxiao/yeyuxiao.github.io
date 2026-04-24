@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D. in Computer Science, University of Cambridge, 2019-2024
 * M.Sc. in Speech and Language Processing, University of Edinburgh, 2016-2017
-* B.A. in Foreign Languages and Literatures, Tsinghua University, 2011-2016
+* B.A. in Foreign Languages and Literatures, Tsinghua University, 2012-2016
 
 Work experience
 ======
