@@ -8,7 +8,7 @@ author_profile: true
 You can find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Gt_LAPoAAAAJ&hl=en&authuser=1).
 
 
-<!-- 
+{% comment %}
 {% if author.googlescholar %}
   You can find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -18,4 +18,4 @@ You can find my articles on my [Google Scholar profile](https://scholar.google.c
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
---> 
+{% endcomment %}
