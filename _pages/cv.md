@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Postdoc @ **Tsinghua University**, 2024-Present
-  * Worked in the THUNLP Group, working on LLM-based multi-agent systems and Legal AI
+  * Worked in the THUNLP Group, working on LLM-based multi-agent systems, game-theoretic reinforcement learning, and Legal AI
     
 * Senior Researcher @ **SinoVoice**, 2019
   * Worked at SinoVoice’s text-to-speech (TTS) center, developing high-speed end-to-end TTS models
@@ -42,11 +42,12 @@ Work experience
 * Skill 3
  -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
 
 <!-- Talks
 ======
